@@ -9,7 +9,7 @@ Durante el proyecto se utilizaron herramientas del ecosistema de ciencia de dato
 Este trabajo fue desarrollado como proyecto académico grupal para la materia **Fundamentos de Ciencias de Datos** de la **Universidad de Palermo (UP)**.
 
 ## Dataset Utilizado
-
+Dataset: [Invistico_Airline.csv](./Invistico_Airline.csv)
 
 ## Modelos Evaluados
 
